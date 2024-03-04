@@ -34,7 +34,7 @@ Notably, the sota backbone can be change to UniFormerV2 and others.
 2. Training
 
    ```
-   python tools/run_net.py --cfg [your file path].infar_config.yaml 
+  coming soon
    ```
 
 ## Testing:
