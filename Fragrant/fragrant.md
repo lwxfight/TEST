@@ -3,7 +3,6 @@ This is the code about the paper:``FRAGRANT: Frequency-Auxiliary Guided Relation
 
 Video action recognition aims to classify actions within sequences of video frames, which has important applications in computer vision fields. Existing methods have shown proficiency in well-lit environments but experience a drop in efficiency under low-light conditions. This decline is due to the challenge of extracting relevant information from dark, noisy images. Furthermore, simply introducing enhancement networks as preprocessing will increase the handling burden of the video. To address this dilemma, this paper presents a novel frequency-based method, FRequency-Auxiliary Guided Relational Attention NeTwork (FRAGRANT), designed specifically for low-light action recognition. Its distinctive features can be summarized as 1) A novel Frequency-Auxiliary Module (FAM) that focuses on informative object regions, characterizing action and motion while effectively suppressing noise. 2) A sophisticated Relational Attention Module (RAM) that enhances motion representation by modeling the local s between position neighbors, thereby more efficiently resolving issues such as fuzzy boundaries. Comprehensive testing demonstrates that FRAGRANT outperforms existing methods, achieving state-of-the-art results on various standard low-light action recognition benchmarks. Main components are frequency introducing and relational attention module.
 
-![QQ图片20240304192114](G:\论文\小论文\MTA2023\MTA0304\Fragrant\figures\QQ图片20240304192114.png)
 
 # Instructions(V1)
 
