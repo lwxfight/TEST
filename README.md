@@ -33,9 +33,7 @@ Notably, the sota backbone can be change to UniFormerV2 and others.
 
 2. Training
 
-   ```
   coming soon
-   ```
 
 ## Testing:
 
