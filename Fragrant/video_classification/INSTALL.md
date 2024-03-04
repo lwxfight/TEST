@@ -26,9 +26,7 @@ Different from the  [SlowFast](https://github.com/facebookresearch/SlowFast) rep
 
 ## Build UniFormer
 After having the above dependencies, run:
-```shell
-git clone https://github.com/Sense-X/UniFormer
-cd UniFormer/video_classification
+cd Fragrant/video_classification
 python setup.py build develop
 ```
 
