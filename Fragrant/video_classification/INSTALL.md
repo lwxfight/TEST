@@ -22,11 +22,10 @@
 - PyTorchVideo: `pip install pytorchvideo`
 - Decord: `pip install decord`
 
-Different from the  [SlowFast](https://github.com/facebookresearch/SlowFast) repository, we remove some codes using  [Detectron2](https://github.com/facebookresearch/detectron2) for easy installation, which are about detection and visulazation. If you want to used them, please follow the [SlowFast](https://github.com/facebookresearch/SlowFast) repository.
+Different from the  [SlowFast](https://github.com/facebookresearch/SlowFast) repository, the UniFormer remove some codes using  [Detectron2](https://github.com/facebookresearch/detectron2) for easy installation, which are about detection and visulazation. If you want to used them, please follow the [SlowFast](https://github.com/facebookresearch/SlowFast) repository.
 
-## Build UniFormer
+## Build 
 After having the above dependencies, run:
 cd Fragrant/video_classification
 python setup.py build develop
-```
 
